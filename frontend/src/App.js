@@ -1,5 +1,5 @@
 function App() {
-  return <div className='App'>hey there</div>
+  return <div className='App'>this was rendered by App.js</div>
 }
 
 export default App
